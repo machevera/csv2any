@@ -1,0 +1,12 @@
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190601.csv  20190601 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190602.csv  20190602 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190603.csv  20190603 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190604.csv  20190604 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190605.csv  20190605 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190606.csv  20190606 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190607.csv  20190607 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190608.csv  20190608 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190609.csv  20190609 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190610.csv  20190610 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190611.csv  20190611 ORA out/stats.201906.sql
+python csv2any.py 201906/Estadistica_Ctrlm_rsat_io_20190612.csv  20190612 ORA out/stats.201906.sql
